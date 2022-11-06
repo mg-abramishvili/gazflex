@@ -151,6 +151,10 @@ header:before {
     padding: 8px;
     border-radius: 12px;
 }
+.sidebar-block img {
+    width: 100%;
+    display: block;
+}
 .sidebar ul {
     margin: 0;
     padding: 0;
